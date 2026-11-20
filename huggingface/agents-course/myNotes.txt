@@ -1,0 +1,35 @@
+HuggingFace/
+│
+├── AgentsCourse/
+│   ├── venv/
+│   ├── lessons/
+│   │   ├── unit1/
+│   │   ├── unit2/
+│   │   ├── unit3/
+│   │   ├── unit4/
+│   │   └── final_project/
+│   │
+│   ├── notebooks/
+│   │   ├── unit1.ipynb
+│   │   ├── unit2.ipynb
+│   │   └── experiments.ipynb
+│   │
+│   ├── scripts/
+│   │   ├── test_ollama.py
+│   │   ├── test_agents.py
+│   │   └── test_tools.py
+│   │
+│   ├── data/
+│   │   ├── pdfs/
+│   │   ├── images/
+│   │   └── sample_data/
+│   │
+│   ├── outputs/
+│   │   ├── logs/
+│   │   └── generated/
+│   │
+│   ├── requirements.txt
+│   ├── README.md
+│   └── .env
+│
+└── OtherCourses/
